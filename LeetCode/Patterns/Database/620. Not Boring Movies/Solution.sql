@@ -1,2 +1,2 @@
 # Write your MySQL query statement below
-select * from Cinema order by rating desc limit 2;
+select * from Cinema where id%2<>0 order by rating desc limit 2;
