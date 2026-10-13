@@ -1,6 +1,6 @@
 # 📝 620. Not Boring Movies (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/not-boring-movies/)
+🔗 [Problem Link](https://leetcode.com/problems/not-boring-movies/?envType=study-plan-v2&envId=top-sql-50)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
