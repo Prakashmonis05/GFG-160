@@ -1,6 +1,6 @@
 # 📝 168. Excel Sheet Column Title (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-title/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-title/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 42.1 MB
 
 ---
 
