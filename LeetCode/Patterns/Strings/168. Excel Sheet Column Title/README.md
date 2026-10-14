@@ -1,6 +1,6 @@
 # 📝 168. Excel Sheet Column Title (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-title)
+🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-title/?envType=problem-list-v2&envId=math)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
