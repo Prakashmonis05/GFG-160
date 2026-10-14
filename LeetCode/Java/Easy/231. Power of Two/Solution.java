@@ -8,10 +8,6 @@ class Solution {
         {
             return true;
         }
-        if(n==0)
-        {
-            return false;
-        }
         return false;
     }
 }
