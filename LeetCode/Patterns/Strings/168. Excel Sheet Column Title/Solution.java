@@ -31,9 +31,10 @@ class Solution {
         String s="";
         while(columnNumber>0)
         {
-            
-            s=map.get((int)columnNumber%26)+s;
-            columnNumber=columnNumber/26;
+            columnNumber--;
+            int newnum=(int)columnNumber%26;
+            s=map.get(newnum+1)+s;
+            columnNumber=(int)columnNumber/26;
         }
 
         return s;
