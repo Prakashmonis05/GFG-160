@@ -31,6 +31,7 @@ class Solution {
         String s="";
         while(columnNumber>0)
         {
+            
             s=map.get((int)columnNumber%26)+s;
             columnNumber=columnNumber/26;
         }
