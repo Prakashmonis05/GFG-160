@@ -9,7 +9,7 @@ class Solution {
             {
                 point+=2;
             }
-            else if(flowerbed[point+1]==1)
+            else if(point+1<len && flowerbed[point+1]==1)
             {
                 point+=3;
             }
@@ -19,7 +19,8 @@ class Solution {
                 point+=2;
             }
         }
-        if(plant==n)
+
+        if(plant>=n)
             return true;
         else
             return false;
